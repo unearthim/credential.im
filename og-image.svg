@@ -1,0 +1,23 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .title { font: 700 120px 'Lora', serif; fill: #e0e0ff; }
+        .dot { font: 700 120px 'Lora', serif; fill: #FFD700; }
+        .subtitle { font: 600 48px 'Inter', sans-serif; fill: #e0e0ff; }
+        .footer { font: 400 24px 'Inter', sans-serif; fill: #a0a0df; }
+        .footer-brand { font-weight: 600; }
+    </style>
+    <rect width="1200" height="630" fill="#02040a"/>
+
+    <text x="50%" y="260" text-anchor="middle" class="title">
+        credential<tspan class="dot">.im</tspan>
+    </text>
+
+    <text x="50%" y="360" text-anchor="middle" class="subtitle">
+        A living constellation of verified claims.
+    </text>
+
+    <text x="50%" y="560" text-anchor="middle" class="footer">
+        A digital monument by <tspan class="footer-brand" fill="#e0e0ff">unearth</tspan><tspan class="footer-brand" fill="#FFD700">.im</tspan>
+    </text>
+</svg>
+
